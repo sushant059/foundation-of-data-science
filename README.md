@@ -1,1 +1,0 @@
-# foundation-of-data-science
